@@ -5,4 +5,4 @@
 [submodule "redivis"]
 	path = redivis
 	url = https://github.com/redivis/redivis-r
-	branch = *release
+	branch = 0.12.13
