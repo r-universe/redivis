@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/redivis/redivis.r-universe.dev
 	branch = HEAD
+[submodule "redivis"]
+	path = redivis
+	url = https://github.com/redivis/redivis-r
+	branch = *release
